@@ -98,4 +98,6 @@ NOTE: THIS SCRIPT WILL DOWNLOAD ABOUT 1GB OF DATA. DO NOT USE WITH A DATA
 LIMITED NETWORK.
 
 
+## Visualizing Lidar output
 
+Follow instructions under xiaomi\_ws folder (main ROS workspace)
